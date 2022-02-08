@@ -10,4 +10,4 @@
 # Cox.zip is the outputs of single and multiple factor Cox regression analysis by SPSS.
 # KM.zip is the outputs of Kaplan-Meier Survival Curve analysis by SPSS.
 # Stratification analysis.zip is the outputs of Stratification analysis by SPSS.
-# Genotyping by Agena MassARRAY.doc is the online method for genotyping.
+# Genotyping by Agena MassARRAY.docx is the online method for genotyping.
